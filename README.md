@@ -33,4 +33,4 @@ This project aims to scale and model a solution toward replacing RAT by a hybrid
 
 ## Power Supply Model
 
-![power supply full model](./Ressources/GEEE_Model.png)
+![power supply full model](./Ressources/GEEE_Model_full.png)
