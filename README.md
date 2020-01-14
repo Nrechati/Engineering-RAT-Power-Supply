@@ -1,9 +1,6 @@
 # Engineering study: Power Supply alternative to Ram Air Turbines in Aircrafts *(RAT)*
 
-
-
 This project is my work on a use case for **"Embedded Electrical Power Management"** as a 5th Year **Engineering student at ESTACA**
-
 
 ## Abstract
 
