@@ -8,7 +8,7 @@ Ram Air Turbine is a system widely used in Aircraft as emergency power supplies.
 
 This project aims to scale and model a solution toward replacing RAT by a hybrid power supply with both Hydrogen fuel cells for nominal energy needs and Super Capacitors for spikes. The goal is to scale both energy sources and distribute load according to what each power supply is good to add (nominal load or spikes) with the best performances.
 
-## Summary
+## Table of contents
 
 ### A.    Conversion chain study
 
